@@ -1,0 +1,19 @@
+html {
+		font-family: "Verdana";
+}
+body {background:grey;
+}
+h4 { 
+	font-size: 30px;
+ }
+p, li {
+	color: white;
+	width: 500px;
+	border: 1px solid black;
+	font-size: 16px;
+	line-height: 2;
+	letter-spacing: 1px;
+}
+p#primero {
+			color: blue
+}
